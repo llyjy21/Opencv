@@ -32,8 +32,8 @@ There are 5 functions in the file **ClusterMatch.cs**:
 ###Cooking Book
 
 Thanks to my friend, **Youness**, who do This for our presentation.
-
+Four picturs to help understand.
 ![GitHub set up](https://cloud.githubusercontent.com/assets/7600637/11641048/59ffb87e-9d36-11e5-8f89-72a8ba3cab48.png)
-
-
-
+![GitHub set up](https://cloud.githubusercontent.com/assets/7600637/11641047/580d4d24-9d36-11e5-8a9d-9a8b6f71c966.png)
+![GitHub set up](https://cloud.githubusercontent.com/assets/7600637/11641044/553276b0-9d36-11e5-8f65-6bed30ca6039.png)
+![GitHub set up](https://cloud.githubusercontent.com/assets/7600637/11641041/51f8957e-9d36-11e5-8e86-bf1cce3395e4.png)
