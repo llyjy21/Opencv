@@ -33,7 +33,7 @@ There are 5 functions in the file **ClusterMatch.cs**:
 
 Thanks to my friend, **Youness**, who do This for our presentation.
 
-![GitHub set up](http://zh.mweb.im/asset/img/set-up-git.gif)
+![GitHub set up](https://cloud.githubusercontent.com/assets/7600637/11641048/59ffb87e-9d36-11e5-8f89-72a8ba3cab48.png)
 
 
 
