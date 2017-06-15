@@ -1,5 +1,5 @@
 
-Representive photo of one region
+Representative photo of one region
 -----
 > Recently, my friends and I am doing a project to find the representative photo of one region. 
 
